@@ -1,0 +1,14 @@
+{
+  "env": {
+    "jest": true
+  },
+  "parser": "babel-eslint",
+  "extends": "eslint-config-airbnb-base",
+  "rules": {
+    "no-param-reassign": [1],
+    "operator-linebreak": [0, "after"],
+    "quotes": [0],
+    "max-len": [0],
+    "semi": [2,"always"]
+  }
+}
