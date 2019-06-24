@@ -1,5 +1,11 @@
 # babel-plugin-jsx-classnames-advanced
 
+[![Build Status](https://img.shields.io/travis/aixfox/babel-plugin-jsx-classnames-advanced.svg?style=flat-square)](https://travis-ci.org/aixfox/babel-plugin-jsx-classnames-advanced)
+[![Coverage Status](https://img.shields.io/coveralls/github/aixfox/babel-plugin-jsx-classnames-advanced.svg?style=flat-square)](https://coveralls.io/github/aixfox/babel-plugin-jsx-classnames-advanced)
+[![NPM version](https://img.shields.io/npm/v/babel-plugin-jsx-classnames-advanced.svg?style=flat-square)](https://www.npmjs.com/package/babel-plugin-jsx-classnames-advanced)
+[![NPM downloads](https://img.shields.io/npm/dm/babel-plugin-jsx-classnames-advanced.svg?style=flat-square)](https://www.npmjs.com/package/babel-plugin-jsx-classnames-advanced)
+
+
 Plugin for babel@7, automatically adding `classnames()` to `[className]` attributes.
 
 Inspired from meowtec's repo [babel-plugin-jsx-classnames](https://github.com/meowtec/babel-plugin-jsx-classnames) for babel@6.
@@ -107,7 +113,7 @@ import _babel_plugin_jsx_classnames_advanced from 'classnames';
 
 
 
-### options
+### Options
 
 Babel config with options:
 ```
